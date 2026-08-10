@@ -36,8 +36,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<owner>/<repo>.git
-cp -r <repo>/skills/finish-session ~/.claude/skills/
+git clone https://github.com/dimaffg7-spec/finish-session.git
+cp -r finish-session/skills/finish-session ~/.claude/skills/
 ```
 
 Скилл станет доступен в новой сессии. Проверить - команда `/finish-session`.
